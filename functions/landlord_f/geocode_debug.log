@@ -1,0 +1,207 @@
+[2025-11-24 15:15:16] === GEOCODE REQUEST START ===
+[2025-11-24 15:15:16] REQUEST_URI: /RENTCONNECT(2)/functions/landlord_f/geocode.php?q=bgc
+[2025-11-24 15:15:16] QUERY_STRING: q=bgc
+[2025-11-24 15:15:16] HTTP_PROXY env: not set
+[2025-11-24 15:15:16] HTTPS_PROXY env: http://
+[2025-11-24 15:15:16] Query from $_GET: [bgc]
+[2025-11-24 15:15:16] Search query: [bgc, Philippines]
+[2025-11-24 15:15:16] URL: https://nominatim.openstreetmap.org/search?q=bgc%2C+Philippines&format=json&addressdetails=1&limit=5
+[2025-11-24 15:15:16] Executing cURL...
+[2025-11-24 15:15:17] HTTP Code: 200
+[2025-11-24 15:15:17] cURL Error: none
+[2025-11-24 15:15:17] Results found: 5
+[2025-11-24 15:15:17] SUCCESS: 5 results
+[2025-11-24 15:15:17] Top result: BGC, McKinley Parkway, Fort Bonifacio, Taguig District 2, Taguig, Southern Manila District, Metro Manila, 1635, Philippines
+[2025-11-24 15:15:17] === GEOCODE REQUEST END ===
+[2025-11-27 02:01:18] === GEOCODE REQUEST START ===
+[2025-11-27 02:01:18] REQUEST_URI: /RENTCONNECT(2)/functions/landlord_f/geocode.php?q=7C%20ilaya
+[2025-11-27 02:01:18] QUERY_STRING: q=7C%20ilaya
+[2025-11-27 02:01:18] HTTP_PROXY env: not set
+[2025-11-27 02:01:18] HTTPS_PROXY env: http://
+[2025-11-27 02:01:18] Query from $_GET: [7C ilaya]
+[2025-11-27 02:01:18] Search query: [7C ilaya, Philippines]
+[2025-11-27 02:01:18] URL: https://nominatim.openstreetmap.org/search?q=7C+ilaya%2C+Philippines&format=json&addressdetails=1&limit=5
+[2025-11-27 02:01:18] Executing cURL...
+[2025-11-27 02:01:19] HTTP Code: 200
+[2025-11-27 02:01:19] cURL Error: none
+[2025-11-27 02:01:19] Results found: 5
+[2025-11-27 02:01:19] SUCCESS: 5 results
+[2025-11-27 02:01:19] Top result: Ilaya, San Fernando, Cebu, Central Visayas, 6018, Philippines
+[2025-11-27 02:01:19] === GEOCODE REQUEST END ===
+[2025-11-27 02:01:27] === GEOCODE REQUEST START ===
+[2025-11-27 02:01:27] REQUEST_URI: /RENTCONNECT(2)/functions/landlord_f/geocode.php?q=7C%20ilaya%20alabang
+[2025-11-27 02:01:27] QUERY_STRING: q=7C%20ilaya%20alabang
+[2025-11-27 02:01:27] HTTP_PROXY env: not set
+[2025-11-27 02:01:27] HTTPS_PROXY env: not set
+[2025-11-27 02:01:27] Query from $_GET: [7C ilaya alabang]
+[2025-11-27 02:01:27] Search query: [7C ilaya alabang, Philippines]
+[2025-11-27 02:01:27] URL: https://nominatim.openstreetmap.org/search?q=7C+ilaya+alabang%2C+Philippines&format=json&addressdetails=1&limit=5
+[2025-11-27 02:01:27] Executing cURL...
+[2025-11-27 02:01:28] HTTP Code: 200
+[2025-11-27 02:01:28] cURL Error: none
+[2025-11-27 02:01:28] Results found: 2
+[2025-11-27 02:01:28] SUCCESS: 2 results
+[2025-11-27 02:01:28] Top result: Ilaya Street, 50-52 Interior Compound, Alabang, Muntinlupa District 2, Muntinlupa, Southern Manila District, Metro Manila, 1781, Philippines
+[2025-11-27 02:01:28] === GEOCODE REQUEST END ===
+[2025-11-27 02:01:48] === GEOCODE REQUEST START ===
+[2025-11-27 02:01:48] REQUEST_URI: /RENTCONNECT(2)/functions/landlord_f/geocode.php?q=7C%20compound%20alabang
+[2025-11-27 02:01:48] QUERY_STRING: q=7C%20compound%20alabang
+[2025-11-27 02:01:48] HTTP_PROXY env: not set
+[2025-11-27 02:01:48] HTTPS_PROXY env: not set
+[2025-11-27 02:01:48] Query from $_GET: [7C compound alabang]
+[2025-11-27 02:01:48] Search query: [7C compound alabang, Philippines]
+[2025-11-27 02:01:48] URL: https://nominatim.openstreetmap.org/search?q=7C+compound+alabang%2C+Philippines&format=json&addressdetails=1&limit=5
+[2025-11-27 02:01:48] Executing cURL...
+[2025-11-27 02:01:49] HTTP Code: 200
+[2025-11-27 02:01:49] cURL Error: none
+[2025-11-27 02:01:49] Results found: 1
+[2025-11-27 02:01:49] SUCCESS: 1 results
+[2025-11-27 02:01:49] Top result: 7C Compound, Alabang, Muntinlupa District 2, Muntinlupa, Southern Manila District, Metro Manila, 1781, Philippines
+[2025-11-27 02:01:49] === GEOCODE REQUEST END ===
+[2025-11-27 02:43:47] === GEOCODE REQUEST START ===
+[2025-11-27 02:43:47] REQUEST_URI: /RENTCONNECT(2)/functions/landlord_f/geocode.php?q=7c%20compound%20alabang
+[2025-11-27 02:43:47] QUERY_STRING: q=7c%20compound%20alabang
+[2025-11-27 02:43:47] HTTP_PROXY env: not set
+[2025-11-27 02:43:47] HTTPS_PROXY env: not set
+[2025-11-27 02:43:47] Query from $_GET: [7c compound alabang]
+[2025-11-27 02:43:47] Search query: [7c compound alabang, Philippines]
+[2025-11-27 02:43:47] URL: https://nominatim.openstreetmap.org/search?q=7c+compound+alabang%2C+Philippines&format=json&addressdetails=1&limit=5
+[2025-11-27 02:43:47] Executing cURL...
+[2025-11-27 02:43:47] HTTP Code: 200
+[2025-11-27 02:43:47] cURL Error: none
+[2025-11-27 02:43:47] Results found: 1
+[2025-11-27 02:43:47] SUCCESS: 1 results
+[2025-11-27 02:43:47] Top result: 7C Compound, Alabang, Muntinlupa District 2, Muntinlupa, Southern Manila District, Metro Manila, 1781, Philippines
+[2025-11-27 02:43:47] === GEOCODE REQUEST END ===
+[2025-11-27 14:39:42] === GEOCODE REQUEST START ===
+[2025-11-27 14:39:42] REQUEST_URI: /RENTCONNECT(2)/functions/landlord_f/geocode.php?q=7c%20compound%20alabang
+[2025-11-27 14:39:42] QUERY_STRING: q=7c%20compound%20alabang
+[2025-11-27 14:39:42] HTTP_PROXY env: not set
+[2025-11-27 14:39:42] HTTPS_PROXY env: http://
+[2025-11-27 14:39:42] Query from $_GET: [7c compound alabang]
+[2025-11-27 14:39:42] Search query: [7c compound alabang, Philippines]
+[2025-11-27 14:39:42] URL: https://nominatim.openstreetmap.org/search?q=7c+compound+alabang%2C+Philippines&format=json&addressdetails=1&limit=5
+[2025-11-27 14:39:42] Executing cURL...
+[2025-11-27 14:39:43] HTTP Code: 200
+[2025-11-27 14:39:43] cURL Error: none
+[2025-11-27 14:39:43] Results found: 1
+[2025-11-27 14:39:43] SUCCESS: 1 results
+[2025-11-27 14:39:43] Top result: 7C Compound, Alabang, Muntinlupa District 2, Muntinlupa, Southern Manila District, Metro Manila, 1781, Philippines
+[2025-11-27 14:39:43] === GEOCODE REQUEST END ===
+[2025-11-27 15:08:47] === GEOCODE REQUEST START ===
+[2025-11-27 15:08:47] REQUEST_URI: /RENTCONNECT(2)/functions/landlord_f/geocode.php?q=7c%20compound%20alabang
+[2025-11-27 15:08:47] QUERY_STRING: q=7c%20compound%20alabang
+[2025-11-27 15:08:47] HTTP_PROXY env: not set
+[2025-11-27 15:08:47] HTTPS_PROXY env: not set
+[2025-11-27 15:08:47] Query from $_GET: [7c compound alabang]
+[2025-11-27 15:08:47] Search query: [7c compound alabang, Philippines]
+[2025-11-27 15:08:47] URL: https://nominatim.openstreetmap.org/search?q=7c+compound+alabang%2C+Philippines&format=json&addressdetails=1&limit=5
+[2025-11-27 15:08:47] Executing cURL...
+[2025-11-27 15:08:48] HTTP Code: 200
+[2025-11-27 15:08:48] cURL Error: none
+[2025-11-27 15:08:48] Results found: 1
+[2025-11-27 15:08:48] SUCCESS: 1 results
+[2025-11-27 15:08:48] Top result: 7C Compound, Alabang, Muntinlupa District 2, Muntinlupa, Southern Manila District, Metro Manila, 1781, Philippines
+[2025-11-27 15:08:48] === GEOCODE REQUEST END ===
+[2025-11-27 15:54:20] === GEOCODE REQUEST START ===
+[2025-11-27 15:54:20] REQUEST_URI: /RENTCONNECT(2)/functions/landlord_f/geocode.php?q=7C%20Compound%20Alabang
+[2025-11-27 15:54:20] QUERY_STRING: q=7C%20Compound%20Alabang
+[2025-11-27 15:54:20] HTTP_PROXY env: not set
+[2025-11-27 15:54:20] HTTPS_PROXY env: not set
+[2025-11-27 15:54:20] Query from $_GET: [7C Compound Alabang]
+[2025-11-27 15:54:20] Search query: [7C Compound Alabang, Philippines]
+[2025-11-27 15:54:20] URL: https://nominatim.openstreetmap.org/search?q=7C+Compound+Alabang%2C+Philippines&format=json&addressdetails=1&limit=5
+[2025-11-27 15:54:20] Executing cURL...
+[2025-11-27 15:54:23] HTTP Code: 200
+[2025-11-27 15:54:23] cURL Error: none
+[2025-11-27 15:54:23] Results found: 1
+[2025-11-27 15:54:23] SUCCESS: 1 results
+[2025-11-27 15:54:23] Top result: 7C Compound, Alabang, Muntinlupa District 2, Muntinlupa, Southern Manila District, Metro Manila, 1781, Philippines
+[2025-11-27 15:54:23] === GEOCODE REQUEST END ===
+[2025-11-27 15:58:30] === GEOCODE REQUEST START ===
+[2025-11-27 15:58:30] REQUEST_URI: /RENTCONNECT(2)/functions/landlord_f/geocode.php?q=7C%20COMPOUND%20ALABANG
+[2025-11-27 15:58:30] QUERY_STRING: q=7C%20COMPOUND%20ALABANG
+[2025-11-27 15:58:30] HTTP_PROXY env: not set
+[2025-11-27 15:58:30] HTTPS_PROXY env: not set
+[2025-11-27 15:58:30] Query from $_GET: [7C COMPOUND ALABANG]
+[2025-11-27 15:58:30] Search query: [7C COMPOUND ALABANG, Philippines]
+[2025-11-27 15:58:30] URL: https://nominatim.openstreetmap.org/search?q=7C+COMPOUND+ALABANG%2C+Philippines&format=json&addressdetails=1&limit=5
+[2025-11-27 15:58:30] Executing cURL...
+[2025-11-27 15:58:33] HTTP Code: 200
+[2025-11-27 15:58:33] cURL Error: none
+[2025-11-27 15:58:33] Results found: 1
+[2025-11-27 15:58:33] SUCCESS: 1 results
+[2025-11-27 15:58:33] Top result: 7C Compound, Alabang, Muntinlupa District 2, Muntinlupa, Southern Manila District, Metro Manila, 1781, Philippines
+[2025-11-27 15:58:33] === GEOCODE REQUEST END ===
+[2025-11-27 16:01:33] === GEOCODE REQUEST START ===
+[2025-11-27 16:01:33] REQUEST_URI: /RENTCONNECT(2)/functions/landlord_f/geocode.php?q=7c%20compound%20alabang
+[2025-11-27 16:01:33] QUERY_STRING: q=7c%20compound%20alabang
+[2025-11-27 16:01:33] HTTP_PROXY env: not set
+[2025-11-27 16:01:33] HTTPS_PROXY env: not set
+[2025-11-27 16:01:33] Query from $_GET: [7c compound alabang]
+[2025-11-27 16:01:33] Search query: [7c compound alabang, Philippines]
+[2025-11-27 16:01:33] URL: https://nominatim.openstreetmap.org/search?q=7c+compound+alabang%2C+Philippines&format=json&addressdetails=1&limit=5
+[2025-11-27 16:01:33] Executing cURL...
+[2025-11-27 16:01:36] HTTP Code: 200
+[2025-11-27 16:01:36] cURL Error: none
+[2025-11-27 16:01:36] Results found: 1
+[2025-11-27 16:01:36] SUCCESS: 1 results
+[2025-11-27 16:01:36] Top result: 7C Compound, Alabang, Muntinlupa District 2, Muntinlupa, Southern Manila District, Metro Manila, 1781, Philippines
+[2025-11-27 16:01:36] === GEOCODE REQUEST END ===
+[2025-11-27 16:11:03] === GEOCODE REQUEST START ===
+[2025-11-27 16:11:03] REQUEST_URI: /RENTCONNECT(2)/functions/landlord_f/geocode.php?q=bautista%20street%20bayanan%20muntinlupa
+[2025-11-27 16:11:03] QUERY_STRING: q=bautista%20street%20bayanan%20muntinlupa
+[2025-11-27 16:11:03] HTTP_PROXY env: not set
+[2025-11-27 16:11:03] HTTPS_PROXY env: not set
+[2025-11-27 16:11:03] Query from $_GET: [bautista street bayanan muntinlupa]
+[2025-11-27 16:11:03] Search query: [bautista street bayanan muntinlupa, Philippines]
+[2025-11-27 16:11:03] URL: https://nominatim.openstreetmap.org/search?q=bautista+street+bayanan+muntinlupa%2C+Philippines&format=json&addressdetails=1&limit=5
+[2025-11-27 16:11:03] Executing cURL...
+[2025-11-27 16:11:03] HTTP Code: 200
+[2025-11-27 16:11:03] cURL Error: none
+[2025-11-27 16:11:03] Results found: 2
+[2025-11-27 16:11:03] SUCCESS: 2 results
+[2025-11-27 16:11:03] Top result: Bautista Street, Tinig Homes, Bayanan, Muntinlupa District 1, Muntinlupa, Southern Manila District, Metro Manila, 1781, Philippines
+[2025-11-27 16:11:03] === GEOCODE REQUEST END ===
+[2025-11-28 03:09:01] === GEOCODE REQUEST START ===
+[2025-11-28 03:09:01] REQUEST_URI: /RENTCONNECT(2)/functions/landlord_f/geocode.php?q=7C%20compound%20alabang
+[2025-11-28 03:09:01] QUERY_STRING: q=7C%20compound%20alabang
+[2025-11-28 03:09:01] HTTP_PROXY env: not set
+[2025-11-28 03:09:01] HTTPS_PROXY env: http://
+[2025-11-28 03:09:01] Query from $_GET: [7C compound alabang]
+[2025-11-28 03:09:01] Search query: [7C compound alabang, Philippines]
+[2025-11-28 03:09:01] URL: https://nominatim.openstreetmap.org/search?q=7C+compound+alabang%2C+Philippines&format=json&addressdetails=1&limit=5
+[2025-11-28 03:09:01] Executing cURL...
+[2025-11-28 03:09:02] HTTP Code: 200
+[2025-11-28 03:09:02] cURL Error: none
+[2025-11-28 03:09:02] Results found: 1
+[2025-11-28 03:09:02] SUCCESS: 1 results
+[2025-11-28 03:09:02] Top result: 7C Compound, Alabang, Muntinlupa District 2, Muntinlupa, Southern Manila District, Metro Manila, 1781, Philippines
+[2025-11-28 03:09:02] === GEOCODE REQUEST END ===
+[2025-11-28 03:10:53] === GEOCODE REQUEST START ===
+[2025-11-28 03:10:53] REQUEST_URI: /RENTCONNECT(2)/functions/landlord_f/geocode.php?q=bautista%20street%20bayanan%20muntinlupa
+[2025-11-28 03:10:53] QUERY_STRING: q=bautista%20street%20bayanan%20muntinlupa
+[2025-11-28 03:10:53] HTTP_PROXY env: not set
+[2025-11-28 03:10:53] HTTPS_PROXY env: not set
+[2025-11-28 03:10:53] Query from $_GET: [bautista street bayanan muntinlupa]
+[2025-11-28 03:10:53] Search query: [bautista street bayanan muntinlupa, Philippines]
+[2025-11-28 03:10:53] URL: https://nominatim.openstreetmap.org/search?q=bautista+street+bayanan+muntinlupa%2C+Philippines&format=json&addressdetails=1&limit=5
+[2025-11-28 03:10:53] Executing cURL...
+[2025-11-28 03:10:54] HTTP Code: 200
+[2025-11-28 03:10:54] cURL Error: none
+[2025-11-28 03:10:54] Results found: 2
+[2025-11-28 03:10:54] SUCCESS: 2 results
+[2025-11-28 03:10:54] Top result: Bautista Street, Tinig Homes, Bayanan, Muntinlupa District 1, Muntinlupa, Southern Manila District, Metro Manila, 1781, Philippines
+[2025-11-28 03:10:54] === GEOCODE REQUEST END ===
+[2025-11-28 15:36:59] === GEOCODE REQUEST START ===
+[2025-11-28 15:36:59] REQUEST_URI: /RENTCONNECT(2)/functions/landlord_f/geocode.php?q=PUTATAN%20MUNTINLUPA
+[2025-11-28 15:36:59] QUERY_STRING: q=PUTATAN%20MUNTINLUPA
+[2025-11-28 15:36:59] HTTP_PROXY env: not set
+[2025-11-28 15:36:59] HTTPS_PROXY env: http://
+[2025-11-28 15:36:59] Query from $_GET: [PUTATAN MUNTINLUPA]
+[2025-11-28 15:36:59] Search query: [PUTATAN MUNTINLUPA, Philippines]
+[2025-11-28 15:36:59] URL: https://nominatim.openstreetmap.org/search?q=PUTATAN+MUNTINLUPA%2C+Philippines&format=json&addressdetails=1&limit=5
+[2025-11-28 15:36:59] Executing cURL...
+[2025-11-28 15:37:10] HTTP Code: 0
+[2025-11-28 15:37:10] cURL Error: Could not resolve host: nominatim.openstreetmap.org
+[2025-11-28 15:37:10] CURL ERROR: Could not resolve host: nominatim.openstreetmap.org
