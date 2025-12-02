@@ -1546,6 +1546,75 @@ function deleteProperty(propertyId) {
     });
 }
 
+// ==================== PROFILE PICTURE UPLOAD ====================
+
+async function handleProfilePictureUpload(event) {
+    const file = event.target.files[0];
+    
+    if (!file) return;
+    
+    // Validate file type
+    if (!file.type.startsWith('image/')) {
+        alert('⚠️ Please select an image file');
+        return;
+    }
+    
+    // Validate file size (max 5MB)
+    if (file.size > 5 * 1024 * 1024) {
+        alert('⚠️ Image is too large. Maximum size is 5MB');
+        return;
+    }
+    
+    const formData = new FormData();
+    formData.append('profile_picture', file);
+    
+    try {
+        const response = await fetch('functions/upload_profile_picture.php', {
+            method: 'POST',
+            body: formData
+        });
+        
+        const result = await response.json();
+        
+        if (result.success) {
+            // Update all avatar images
+            const reader = new FileReader();
+            reader.onload = (e) => {
+                const imageUrl = e.target.result;
+                
+                // Update sidebar avatar
+                const sidebarAvatar = document.getElementById('sidebarAvatar');
+                if (sidebarAvatar) {
+                    sidebarAvatar.style.backgroundImage = `url('${imageUrl}')`;
+                    sidebarAvatar.style.backgroundSize = 'cover';
+                    sidebarAvatar.style.backgroundPosition = 'center';
+                    sidebarAvatar.innerHTML = ''; // Remove initial letter
+                }
+                
+                // Update profile page avatar
+                const profileAvatar = document.getElementById('profileAvatarLarge');
+                if (profileAvatar) {
+                    profileAvatar.style.backgroundImage = `url('${imageUrl}')`;
+                    profileAvatar.style.backgroundSize = 'cover';
+                    profileAvatar.style.backgroundPosition = 'center';
+                    profileAvatar.innerHTML = ''; // Remove initial letter
+                }
+            };
+            reader.readAsDataURL(file);
+            
+            alert('✅ Profile picture updated successfully!');
+        } else {
+            alert(`❌ Failed to upload: ${result.message}`);
+        }
+    } catch (error) {
+        console.error('Upload error:', error);
+        alert('❌ Failed to upload profile picture. Please try again.');
+    }
+    
+    // Reset input
+    event.target.value = '';
+}
+
 // ==================== PROFILE UPDATE HANDLING ====================
 
 async function handleProfileUpdate(event) {
@@ -1621,6 +1690,7 @@ window.removePhoto = removePhoto;
 window.handlePropertySubmit = handlePropertySubmit;
 window.resetPropertyForm = resetPropertyForm;
 window.handleProfileUpdate = handleProfileUpdate;
+window.handleProfilePictureUpload = handleProfilePictureUpload;
 window.editProperty = editProperty;
 window.closeEditModal = closeEditModal;
 window.handlePropertyUpdate = handlePropertyUpdate;
