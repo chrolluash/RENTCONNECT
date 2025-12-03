@@ -1575,32 +1575,31 @@ async function handleProfilePictureUpload(event) {
         });
         
         const result = await response.json();
+        console.log('Upload result:', result); // DEBUG
         
         if (result.success) {
-            // Update all avatar images
-            const reader = new FileReader();
-            reader.onload = (e) => {
-                const imageUrl = e.target.result;
-                
-                // Update sidebar avatar
-                const sidebarAvatar = document.getElementById('sidebarAvatar');
-                if (sidebarAvatar) {
-                    sidebarAvatar.style.backgroundImage = `url('${imageUrl}')`;
-                    sidebarAvatar.style.backgroundSize = 'cover';
-                    sidebarAvatar.style.backgroundPosition = 'center';
-                    sidebarAvatar.innerHTML = ''; // Remove initial letter
-                }
-                
-                // Update profile page avatar
-                const profileAvatar = document.getElementById('profileAvatarLarge');
-                if (profileAvatar) {
-                    profileAvatar.style.backgroundImage = `url('${imageUrl}')`;
-                    profileAvatar.style.backgroundSize = 'cover';
-                    profileAvatar.style.backgroundPosition = 'center';
-                    profileAvatar.innerHTML = ''; // Remove initial letter
-                }
-            };
-            reader.readAsDataURL(file);
+            // Add the leading slash to the path
+            const imageUrl = '/' + result.profile_picture_path;
+            
+            console.log('Image URL:', imageUrl); // DEBUG
+            
+            // Update sidebar avatar
+            const sidebarAvatar = document.getElementById('sidebarAvatar');
+            if (sidebarAvatar) {
+                sidebarAvatar.style.backgroundImage = `url('${imageUrl}')`;
+                sidebarAvatar.style.backgroundSize = 'cover';
+                sidebarAvatar.style.backgroundPosition = 'center';
+                sidebarAvatar.innerHTML = ''; // Remove initial letter
+            }
+            
+            // Update profile page avatar
+            const profileAvatar = document.getElementById('profileAvatarLarge');
+            if (profileAvatar) {
+                profileAvatar.style.backgroundImage = `url('${imageUrl}')`;
+                profileAvatar.style.backgroundSize = 'cover';
+                profileAvatar.style.backgroundPosition = 'center';
+                profileAvatar.innerHTML = ''; // Remove initial letter
+            }
             
             alert('✅ Profile picture updated successfully!');
         } else {

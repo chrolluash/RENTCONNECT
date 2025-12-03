@@ -87,3 +87,273 @@
 [02-Dec-2025 11:33:06 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 21
 [02-Dec-2025 11:33:06 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 22
 [02-Dec-2025 11:33:06 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 23
+[03-Dec-2025 21:12:22 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 21
+[03-Dec-2025 21:12:22 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 22
+[03-Dec-2025 21:12:22 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 23
+[03-Dec-2025 21:12:25 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 21
+[03-Dec-2025 21:12:25 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 22
+[03-Dec-2025 21:12:25 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 23
+[03-Dec-2025 21:12:58 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 21
+[03-Dec-2025 21:12:58 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 22
+[03-Dec-2025 21:12:58 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 23
+[03-Dec-2025 21:12:58 Asia/Manila] === Profile Picture Upload Debug ===
+[03-Dec-2025 21:12:58 Asia/Manila] User ID: 1
+[03-Dec-2025 21:12:58 Asia/Manila] POST data: Array
+(
+)
+
+[03-Dec-2025 21:12:58 Asia/Manila] FILES data: Array
+(
+    [profile_picture] => Array
+        (
+            [name] => 212b6778-88d3-4787-ad2e-a4f07e373ca4.jpg
+            [full_path] => 212b6778-88d3-4787-ad2e-a4f07e373ca4.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpE44C.tmp
+            [error] => 0
+            [size] => 810816
+        )
+
+)
+
+[03-Dec-2025 21:12:58 Asia/Manila] Upload directory: C:\xampp\htdocs\RENTCONNECT(2)\uploads\profiles
+[03-Dec-2025 21:12:58 Asia/Manila] Attempting to save to: ../uploads/profiles/profile_1_6930375a0c7f1.jpg
+[03-Dec-2025 21:12:58 Asia/Manila] File saved successfully to: ../uploads/profiles/profile_1_6930375a0c7f1.jpg
+[03-Dec-2025 21:12:58 Asia/Manila] Database updated successfully
+[03-Dec-2025 21:12:58 Asia/Manila] Deleted old picture: uploads/profiles/profile_1_692e5dbc964bc.jpg
+[03-Dec-2025 21:13:01 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 21
+[03-Dec-2025 21:13:01 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 22
+[03-Dec-2025 21:13:01 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 23
+[03-Dec-2025 21:13:47 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 21
+[03-Dec-2025 21:13:47 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 22
+[03-Dec-2025 21:13:47 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 23
+[03-Dec-2025 21:13:47 Asia/Manila] === Profile Picture Upload Debug ===
+[03-Dec-2025 21:13:47 Asia/Manila] User ID: 1
+[03-Dec-2025 21:13:47 Asia/Manila] POST data: Array
+(
+)
+
+[03-Dec-2025 21:13:47 Asia/Manila] FILES data: Array
+(
+    [profile_picture] => Array
+        (
+            [name] => shapes.avif
+            [full_path] => shapes.avif
+            [type] => image/avif
+            [tmp_name] => C:\xampp\tmp\phpA694.tmp
+            [error] => 0
+            [size] => 26329
+        )
+
+)
+
+[03-Dec-2025 21:13:55 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 21
+[03-Dec-2025 21:13:55 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 22
+[03-Dec-2025 21:13:55 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 23
+[03-Dec-2025 21:13:55 Asia/Manila] === Profile Picture Upload Debug ===
+[03-Dec-2025 21:13:55 Asia/Manila] User ID: 1
+[03-Dec-2025 21:13:55 Asia/Manila] POST data: Array
+(
+)
+
+[03-Dec-2025 21:13:55 Asia/Manila] FILES data: Array
+(
+    [profile_picture] => Array
+        (
+            [name] => color.jpg
+            [full_path] => color.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpC548.tmp
+            [error] => 0
+            [size] => 185839
+        )
+
+)
+
+[03-Dec-2025 21:13:55 Asia/Manila] Upload directory: C:\xampp\htdocs\RENTCONNECT(2)\uploads\profiles
+[03-Dec-2025 21:13:55 Asia/Manila] Attempting to save to: ../uploads/profiles/profile_1_693037938ce54.jpg
+[03-Dec-2025 21:13:55 Asia/Manila] File saved successfully to: ../uploads/profiles/profile_1_693037938ce54.jpg
+[03-Dec-2025 21:13:55 Asia/Manila] Database updated successfully
+[03-Dec-2025 21:13:55 Asia/Manila] Deleted old picture: uploads/profiles/profile_1_6930375a0c7f1.jpg
+[03-Dec-2025 21:13:59 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 21
+[03-Dec-2025 21:13:59 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 22
+[03-Dec-2025 21:13:59 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 23
+[03-Dec-2025 21:16:02 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 21
+[03-Dec-2025 21:16:02 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 22
+[03-Dec-2025 21:16:02 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 23
+[03-Dec-2025 21:16:02 Asia/Manila] === Profile Picture Upload Debug ===
+[03-Dec-2025 21:16:02 Asia/Manila] User ID: 1
+[03-Dec-2025 21:16:02 Asia/Manila] POST data: Array
+(
+)
+
+[03-Dec-2025 21:16:02 Asia/Manila] FILES data: Array
+(
+    [profile_picture] => Array
+        (
+            [name] => 212b6778-88d3-4787-ad2e-a4f07e373ca4.jpg
+            [full_path] => 212b6778-88d3-4787-ad2e-a4f07e373ca4.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpB5DE.tmp
+            [error] => 0
+            [size] => 810816
+        )
+
+)
+
+[03-Dec-2025 21:16:02 Asia/Manila] Upload directory: C:\xampp\htdocs\RENTCONNECT(2)\uploads\profiles
+[03-Dec-2025 21:16:02 Asia/Manila] Attempting to save to: ../uploads/profiles/profile_1_69303812acb90.jpg
+[03-Dec-2025 21:16:02 Asia/Manila] File saved successfully to: ../uploads/profiles/profile_1_69303812acb90.jpg
+[03-Dec-2025 21:16:02 Asia/Manila] Database updated successfully
+[03-Dec-2025 21:16:02 Asia/Manila] Deleted old picture: uploads/profiles/profile_1_693037938ce54.jpg
+[03-Dec-2025 21:16:23 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 21
+[03-Dec-2025 21:16:23 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 22
+[03-Dec-2025 21:16:23 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 23
+[03-Dec-2025 21:22:43 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 21
+[03-Dec-2025 21:22:43 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 22
+[03-Dec-2025 21:22:43 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 23
+[03-Dec-2025 21:22:46 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 21
+[03-Dec-2025 21:22:46 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 22
+[03-Dec-2025 21:22:46 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 23
+[03-Dec-2025 21:22:53 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 21
+[03-Dec-2025 21:22:53 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 22
+[03-Dec-2025 21:22:53 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 23
+[03-Dec-2025 21:22:53 Asia/Manila] === Profile Picture Upload Debug ===
+[03-Dec-2025 21:22:53 Asia/Manila] User ID: 1
+[03-Dec-2025 21:22:53 Asia/Manila] POST data: Array
+(
+)
+
+[03-Dec-2025 21:22:53 Asia/Manila] FILES data: Array
+(
+    [profile_picture] => Array
+        (
+            [name] => color.jpg
+            [full_path] => color.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpF8D6.tmp
+            [error] => 0
+            [size] => 185839
+        )
+
+)
+
+[03-Dec-2025 21:22:53 Asia/Manila] Upload directory: C:\xampp\htdocs\RENTCONNECT(2)\uploads\profiles
+[03-Dec-2025 21:22:53 Asia/Manila] Attempting to save to: ../uploads/profiles/profile_1_693039ad163dd.jpg
+[03-Dec-2025 21:22:53 Asia/Manila] File saved successfully to: ../uploads/profiles/profile_1_693039ad163dd.jpg
+[03-Dec-2025 21:22:53 Asia/Manila] Database updated successfully
+[03-Dec-2025 21:22:53 Asia/Manila] Deleted old picture: uploads/profiles/profile_1_69303812acb90.jpg
+[03-Dec-2025 21:28:28 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 21
+[03-Dec-2025 21:28:28 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 22
+[03-Dec-2025 21:28:28 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 23
+[03-Dec-2025 21:28:50 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 21
+[03-Dec-2025 21:28:50 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 22
+[03-Dec-2025 21:28:50 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 23
+[03-Dec-2025 21:28:53 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 21
+[03-Dec-2025 21:28:53 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 22
+[03-Dec-2025 21:28:53 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 23
+[03-Dec-2025 21:29:04 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 21
+[03-Dec-2025 21:29:04 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 22
+[03-Dec-2025 21:29:04 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 23
+[03-Dec-2025 21:29:04 Asia/Manila] === Profile Picture Upload Debug ===
+[03-Dec-2025 21:29:04 Asia/Manila] User ID: 1
+[03-Dec-2025 21:29:04 Asia/Manila] POST data: Array
+(
+)
+
+[03-Dec-2025 21:29:04 Asia/Manila] FILES data: Array
+(
+    [profile_picture] => Array
+        (
+            [name] => color.jpg
+            [full_path] => color.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpA2AC.tmp
+            [error] => 0
+            [size] => 185839
+        )
+
+)
+
+[03-Dec-2025 21:29:04 Asia/Manila] Upload directory: C:\xampp\htdocs\RENTCONNECT(2)\uploads\profiles
+[03-Dec-2025 21:29:04 Asia/Manila] Attempting to save to: ../uploads/profiles/profile_1_69303b202be56.jpg
+[03-Dec-2025 21:29:04 Asia/Manila] File saved successfully to: ../uploads/profiles/profile_1_69303b202be56.jpg
+[03-Dec-2025 21:29:04 Asia/Manila] Database updated successfully
+[03-Dec-2025 21:29:04 Asia/Manila] Deleted old picture: uploads/profiles/profile_1_693039ad163dd.jpg
+[03-Dec-2025 21:29:25 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 21
+[03-Dec-2025 21:29:25 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 22
+[03-Dec-2025 21:29:25 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 23
+[03-Dec-2025 21:29:34 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 21
+[03-Dec-2025 21:29:34 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 22
+[03-Dec-2025 21:29:34 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 23
+[03-Dec-2025 21:29:44 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 21
+[03-Dec-2025 21:29:44 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 22
+[03-Dec-2025 21:29:44 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 23
+[03-Dec-2025 21:29:44 Asia/Manila] === Profile Picture Upload Debug ===
+[03-Dec-2025 21:29:44 Asia/Manila] User ID: 1
+[03-Dec-2025 21:29:44 Asia/Manila] POST data: Array
+(
+)
+
+[03-Dec-2025 21:29:44 Asia/Manila] FILES data: Array
+(
+    [profile_picture] => Array
+        (
+            [name] => ca876415-53b5-45b5-a868-ec924e067128.jpg
+            [full_path] => ca876415-53b5-45b5-a868-ec924e067128.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php3FD7.tmp
+            [error] => 0
+            [size] => 305179
+        )
+
+)
+
+[03-Dec-2025 21:29:44 Asia/Manila] Upload directory: C:\xampp\htdocs\RENTCONNECT(2)\uploads\profiles
+[03-Dec-2025 21:29:44 Asia/Manila] Attempting to save to: ../uploads/profiles/profile_1_69303b486560c.jpg
+[03-Dec-2025 21:29:44 Asia/Manila] File saved successfully to: ../uploads/profiles/profile_1_69303b486560c.jpg
+[03-Dec-2025 21:29:44 Asia/Manila] Database updated successfully
+[03-Dec-2025 21:29:44 Asia/Manila] Deleted old picture: uploads/profiles/profile_1_69303b202be56.jpg
+[03-Dec-2025 21:32:59 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 21
+[03-Dec-2025 21:32:59 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 22
+[03-Dec-2025 21:32:59 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 23
+[03-Dec-2025 21:33:11 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 21
+[03-Dec-2025 21:33:11 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 22
+[03-Dec-2025 21:33:11 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 23
+[03-Dec-2025 21:33:11 Asia/Manila] === Profile Picture Upload Debug ===
+[03-Dec-2025 21:33:11 Asia/Manila] User ID: 1
+[03-Dec-2025 21:33:11 Asia/Manila] POST data: Array
+(
+)
+
+[03-Dec-2025 21:33:11 Asia/Manila] FILES data: Array
+(
+    [profile_picture] => Array
+        (
+            [name] => ca876415-53b5-45b5-a868-ec924e067128.jpg
+            [full_path] => ca876415-53b5-45b5-a868-ec924e067128.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php6786.tmp
+            [error] => 0
+            [size] => 305179
+        )
+
+)
+
+[03-Dec-2025 21:33:11 Asia/Manila] Upload directory: C:\xampp\htdocs\RENTCONNECT(2)\uploads\profiles
+[03-Dec-2025 21:33:11 Asia/Manila] Attempting to save to: ../uploads/profiles/profile_1_69303c171fa14.jpg
+[03-Dec-2025 21:33:11 Asia/Manila] File saved successfully to: ../uploads/profiles/profile_1_69303c171fa14.jpg
+[03-Dec-2025 21:33:11 Asia/Manila] Database updated successfully
+[03-Dec-2025 21:33:11 Asia/Manila] Deleted old picture: uploads/profiles/profile_1_69303b486560c.jpg
+[03-Dec-2025 21:33:17 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 21
+[03-Dec-2025 21:33:17 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 22
+[03-Dec-2025 21:33:17 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 23
+[03-Dec-2025 21:44:28 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 21
+[03-Dec-2025 21:44:28 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 22
+[03-Dec-2025 21:44:28 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 23
+[03-Dec-2025 21:44:39 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 21
+[03-Dec-2025 21:44:39 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 22
+[03-Dec-2025 21:44:39 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 23
+[03-Dec-2025 21:44:42 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 21
+[03-Dec-2025 21:44:42 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 22
+[03-Dec-2025 21:44:42 Asia/Manila] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\RENTCONNECT(2)\functions\config.php on line 23

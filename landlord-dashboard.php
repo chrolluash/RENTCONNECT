@@ -16,7 +16,7 @@ $profilePicture = $_SESSION['profile_picture'] ?? null;
 // Helper function to get profile picture URL
 function getProfilePictureUrl($profilePicture) {
     if ($profilePicture && file_exists($profilePicture)) {
-        return '/' . $profilePicture;
+        return $profilePicture; // Remove the '/' - just return as-is
     }
     return null; // Will use CSS background with initials
 }
@@ -52,11 +52,11 @@ $profilePictureUrl = getProfilePictureUrl($profilePicture);
         </div>
 
         <div class="sidebar-user">
-            <div class="user-avatar" id="sidebarAvatar" style="<?php echo $profilePictureUrl ? "background-image: url('$profilePictureUrl'); background-size: cover; background-position: center;" : ''; ?>">
-                <?php if (!$profilePictureUrl): ?>
-                    <span><?php echo strtoupper(substr($userName, 0, 1)); ?></span>
-                <?php endif; ?>
-            </div>
+            <div class="user-avatar" id="sidebarAvatar" <?php if ($profilePictureUrl): ?>style="background-image: url('<?php echo $profilePictureUrl; ?>'); background-size: cover; background-position: center;"<?php endif; ?>>
+    <?php if (!$profilePictureUrl): ?>
+        <span><?php echo strtoupper(substr($userName, 0, 1)); ?></span>
+    <?php endif; ?>
+</div>
             <div class="user-info">
                 <h3><?php echo htmlspecialchars($userName); ?></h3>
                 <p><?php echo htmlspecialchars($userEmail); ?></p>
@@ -321,11 +321,11 @@ $profilePictureUrl = getProfilePictureUrl($profilePicture);
             <div class="form-card">
                 <div class="profile-header">
                     <div class="profile-avatar-container">
-                        <div class="profile-avatar-large" id="profileAvatarLarge" style="<?php echo $profilePictureUrl ? "background-image: url('$profilePictureUrl'); background-size: cover; background-position: center;" : ''; ?>">
-                            <?php if (!$profilePictureUrl): ?>
-                                <span><?php echo strtoupper(substr($userName, 0, 1)); ?></span>
-                            <?php endif; ?>
-                        </div>
+                        <div class="profile-avatar-large" id="profileAvatarLarge" <?php if ($profilePictureUrl): ?>style="background-image: url('<?php echo $profilePictureUrl; ?>'); background-size: cover; background-position: center;"<?php endif; ?>>
+    <?php if (!$profilePictureUrl): ?>
+        <span><?php echo strtoupper(substr($userName, 0, 1)); ?></span>
+    <?php endif; ?>
+</div>
                         <label for="profilePictureInput" class="upload-profile-btn">
                             <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                                 <path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"></path>
